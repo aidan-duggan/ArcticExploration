@@ -1,4 +1,4 @@
-# ArticExploration
+# ArcticExploration
 
 Draft rules for a boardgame
 
