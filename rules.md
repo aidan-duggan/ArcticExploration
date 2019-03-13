@@ -34,6 +34,8 @@ Each card lists an obstacle that needs to be over come using equipment cards. Th
 
 ### Main Board
 Map of the south pole including water all around. 
+The south pole area will be made of concentric rings. Each ring is broken into small sections.
+Different sections will represent differnt types of terrain.
 [Not Yet Defined]
 
 
@@ -63,6 +65,6 @@ At some point phase 1 ends.
 
 ## Phase 2: Turns
 
-
+Based on phase 1 players will take turns choosing a landing location on the south pole.
 
 
