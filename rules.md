@@ -66,5 +66,6 @@ At some point phase 1 ends.
 ## Phase 2: Turns
 
 Based on phase 1 players will take turns choosing a landing location on the south pole.
+Each turn players decide how many calories they want to eat, this turns into a store two turns away. Players can then use previous stores to perform actions. Moving towards the south pole will trigger a terrain card, players must use their supplies and calories to overcome the terrain.
 
 
