@@ -26,7 +26,7 @@ Each card lists an obstacle that needs to be over come using equipment cards. Th
 Map of the south pole including water all around. 
 The south pole area will be made of concentric rings. Each ring is broken into small sections.
 Different sections will represent differnt types of terrain.
-[Not Yet Defined]
+![main board](https://raw.githubusercontent.com/aidan-duggan/ArcticExploration/master/img/pole.png)
 
 
 ## Setup
