@@ -19,17 +19,7 @@ Each card lists an obstacle that needs to be over come using equipment cards. Th
 
 ### Player Board
 
-[_________________]
-
- Player Offering
- 
-[_________________]
-
- Player Storage
- 
-(___) (___) (___)
-
-[_________________]
+![player board](https://raw.githubusercontent.com/aidan-duggan/ArcticExploration/master/img/playerboard.png)
 
 
 ### Main Board
